@@ -1,0 +1,233 @@
+
+@media(min-width:768px) and (max-width:1023px){
+    .navbar-brand {
+        width: 16%;
+    }
+    .spacing {
+        padding: 80px 35px;
+    }
+    .feat-text p {
+        font-size: 14px;
+    }
+    .client-img img {
+        height: 260px;
+    }
+    .plan p {
+        line-height: 19px;
+        font-weight: 400;
+        padding: 9px 0;
+    }
+    .plan-img p img {
+        padding: 0;
+    }
+    .plan-img p {
+        margin: 0;
+    }
+    .map img {
+        margin-top: 110px;
+        max-width: 345px;
+    }
+    .mid h1 {
+        font-size: 22px;
+    }
+    .btn-download{
+        font-size: 13px;
+    }
+    .middle{
+        padding: 50px 0;
+    }
+    .mid h1 {
+        font-size: 22px;
+    }
+    footer p {
+        font-size: 14px;
+    }
+    .f-icon ul {
+        justify-content: flex-end;
+    }
+}
+@media(min-width:576px) and (max-width:767px){
+    .navbar-brand {
+        width: 23%;
+    }
+    .nmbr {
+        margin-right: 163px;
+    }
+    .spacing {
+        padding: 55px 35px;
+        text-align: center;
+    }
+    .icon {
+        text-align: center;
+    }
+    .respon-text {
+        padding: 24px 0;
+    }
+    .client-text p {
+        line-height: 30px;
+    }
+    .client-img{
+        text-align: center;
+    }
+    .client-img img {
+        padding: 10px;
+        height: 200px;
+    }
+    .map-text{
+        text-align: center;
+    }
+    .plan-img p img {
+        padding: 0;
+    }
+    .plan-img p {
+        padding-left: 130px;
+    }
+    .middle {
+        padding: 30px 0;
+        text-align: center;
+    }
+    .mid p{
+        font-size: 14px;
+    }
+    .pp-two {
+        border-bottom: 1px solid #83a7a5;
+    }
+    footer {
+        text-align: center;
+    }
+    .f-icon ul {
+        justify-content: center;
+        padding: 0;
+    }
+}
+@media(min-width:0px) and (max-width:575px){
+    .navbar-brand img {
+        height: 16px;
+        width: 55px;
+    }
+    .navbar-brand {
+        width: 13%;
+    }
+    .plan-img p {
+        text-align: center;
+    }
+    .nmbr {
+        margin-right: 228px;
+    }
+    .spacing {
+        text-align: center;
+        padding: 120px 30px;
+    }
+   
+    .icon {
+        text-align: center;
+        padding: 14px 19px;
+    }
+    .respon-text {
+        text-align: center;
+        padding: 40px 3px;
+    }
+    .client {
+        padding: 0 10px;
+    }
+    .client-text {
+        text-align: center;
+    }
+    .client-img{
+        text-align: center;
+    }
+    .map-text p {
+        text-align: center;
+    }
+    .map-text h1 {
+        text-align: center;
+        font-size: 22px;
+    }
+    .middle {
+        text-align: center;
+    }
+
+    .pp-two {
+        border-bottom: 1px solid #83a7a5;
+    }
+    .last {
+        padding: 30px 0px;
+    }
+    footer p {
+        text-align: center;
+        margin-top: 20px;
+    }
+    .f-icon ul li i {
+        margin: 10px 4px;
+    }
+    .f-icon ul {
+        justify-content: center;
+        padding: 0
+    };
+   
+}
+@media(min-width:0px) and (max-width:425px){
+    .nmbr p {
+        display: none;
+    }
+    .nmbr i {
+        margin-top: -10px;
+        font-size: 18px;
+    }
+    .spacing {
+        padding: 50px 10px;
+    }
+    .details {
+        padding: 7px;
+    }
+    .client-text p {
+        line-height: 35px;
+    }
+    .client-img img {
+        padding: 25px;
+        height: 240px;
+    }
+    .respon-img img {
+        height: 330px;
+    }
+    .navbar-brand {
+        width: 20%;
+    }
+    .nmbr {
+        margin-right: 195px;
+    }
+    .f-icon ul {
+        justify-content: center;
+        padding: 0;
+    }
+}
+@media(min-width:321px) and (max-width:375px){
+    .f-icon ul {
+    justify-content: center;
+    padding: 0;
+    }
+    .respon-img img {
+        height: 300px;
+    }
+    .nmbr {
+        margin-right: 155px;
+    }
+}
+@media(min-width:0px) and (max-width:320px){
+    .navbar-brand {
+        width: 25%;
+    }
+    .nmbr {
+        margin-right: 100px;
+    }
+    .respon-img img {
+        height: 297px;
+    }
+    .respon-text p {
+        font-size: 14px;
+    }
+    .f-icon ul {
+        justify-content: center;
+        padding: 0;
+    }
+}
